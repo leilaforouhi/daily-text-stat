@@ -1,2 +1,2 @@
 Hello GitHub!
-This is my first daily commit.
+This is my first daily commi.
